@@ -44,3 +44,5 @@ ADMIN: CTTB_STUDIOS
         ---------------
         
         # IGNORE .HTML FILES
+!docTYPE HTML
+#TEST#
